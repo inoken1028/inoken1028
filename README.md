@@ -7,7 +7,7 @@
 
 ## 📫 連絡先
 - Twitter: [@example](https://twitter.com/example)
-- Email: example@email.com
+- Email: kinoue@sophia-fukuoka.ed.jp
 
 ## 📊 GitHub Stats
 
